@@ -1,9 +1,9 @@
-<img src="https://github.com/ClaytonSdS/VisionGauge/blob/main/steps/utm_dataset_logo2.png?raw=true" width="900"/>
+<img src="https://github.com/ClaytonSdS/VisionGauge_Files/blob/main/steps/utm_dataset_logo2.png?raw=true" width="900"/>
 
 
 # **Dataset Description**
 
-This dataset was created to support Article X and is available on [Roboflow](https://universe.roboflow.com/visiongauge/utm_dataset-ooorv) and [Hugging Face](https://huggingface.co/datasets/claytonsds/UTM_Dataset).
+This dataset was created to support Article: [*VisionGauge: a computer vision model to detect and read U-tube manometers*](https://doi.org/10.23900/artefactum.v25i5.3462) and is available on [Roboflow](https://universe.roboflow.com/visiongauge/utm_dataset-ooorv) and [Hugging Face](https://huggingface.co/datasets/claytonsds/UTM_Dataset).
 
 It consists of images of **U-tube manometers** constructed using a **transparent PVC water level hose (5/16" × 1 mm)** and **flexible measuring tapes of different colors**, each with a length of **150 cm (60 inches)**. The manometric fluids represented in the dataset include **water, oil, and dyed water**. The dataset is intended for **computer vision regression and classification tasks**, specifically targeting the **reading of liquid column levels**.
 
@@ -11,7 +11,7 @@ The dataset includes **48,218 augmented images**, derived from **20,036 unique o
 
 
 # **Dataset Split**
-![dataset distribution](https://github.com/ClaytonSdS/VisionGauge/blob/main/steps/dataset_distribution_hf.png?raw=true)
+![dataset distribution](https://github.com/ClaytonSdS/VisionGauge_Files/blob/main/steps/utm_dataset_distribution.png?raw=true)
 
 * **Training set:** 42274 images
 * **Validation set:** 5319 images
@@ -52,14 +52,14 @@ This dataset is released under the **Apache License 2.0**.
 # **Citation**
 
 ```bibtex
-@dataset{utm_dataset,
+@misc{utm_dataset,
 	author    = {Santos, Clayton Silva},
 	title     = {{UTM} {Dataset}},
 	year      = {2026},
 	month     = {jan},
 	publisher = {Roboflow},
 	version   = {27},
-	doi       = {10.5281/zenodo.18259826},
+	doi       = {10.57967/hf/7558},
 	url       = {https://universe.roboflow.com/visiongauge/utm_dataset-ooorv}
 }
 ```
