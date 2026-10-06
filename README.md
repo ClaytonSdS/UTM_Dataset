@@ -6,7 +6,7 @@
 
 # **Dataset Description**
 
-This dataset was created to support Article: [*VisionGauge: a computer vision model to detect and read U-tube manometers*](https://doi.org/10.23900/artefactum.v25i5.3462) and is available on [Roboflow](https://universe.roboflow.com/visiongauge/utm_dataset-ooorv) and [Hugging Face](https://huggingface.co/datasets/claytonsds/UTM_Dataset).
+This dataset was created to support Article: [*VisionGauge: a computer vision model to detect and read U-tube manometers*](https://doi.org/10.23900/artefactum.v25i5.3462) and is available on [Hugging Face](https://huggingface.co/datasets/claytonsds/UTM_Dataset).
 
 It consists of images of **U-tube manometers** constructed using a **transparent PVC water level hose (5/16" × 1 mm)** and **flexible measuring tapes of different colors**, each with a length of **150 cm (60 inches)**. The manometric fluids represented in the dataset include **water, oil, and dyed water**. The dataset is intended for **computer vision regression and classification tasks**, specifically targeting the **reading of liquid column levels**.
 
