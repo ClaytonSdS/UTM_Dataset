@@ -1,8 +1,8 @@
 <img src="https://github.com/ClaytonSdS/VisionGauge_Files/blob/main/steps/utm_dataset_logo2.png?raw=true" width="900"/>
 
 [![DOI](https://img.shields.io/badge/DOI-10.23900%2Fartefactum.v25i5.3462-blue)](https://doi.org/10.23900/artefactum.v25i5.3462)
-[![UTM DATASET](https://img.shields.io/badge/Dataset%20UTM-10.57967%2Fhf%2F7558-green)](https://doi.org/10.57967/hf/7558)
-[![UTM DETECTION DATASET](https://img.shields.io/badge/Dataset%20UTM-10.57967%2Fhf%2F7558-green)](https://doi.org/10.57967/hf/7783)
+[![UTM Dataset](https://img.shields.io/badge/UTM%20DATASET-10.57967%2Fhf%2F7558-green)](https://doi.org/10.57967/hf/7558)
+[![UTM Detection Dataset](https://img.shields.io/badge/UTM%20DETECTION%20DATASET-10.57967%2Fhf%2F7783-green)](https://doi.org/10.57967/hf/7783)
 
 # **Dataset Description**
 
