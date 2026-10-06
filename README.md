@@ -44,7 +44,7 @@ dataset/
 
 # License
 
-This dataset is released under the **Apache License 2.0**.
+This dataset is released under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license. You are free to share and adapt the material, provided you give appropriate credit and distribute any derivative works under the same license. For details, see the [LICENSE](https://huggingface.co/datasets/claytonsds/UTM_Detection_Dataset/blob/main/LICENSE.md) file.
 
 ---
 
@@ -53,13 +53,12 @@ This dataset is released under the **Apache License 2.0**.
 
 ```bibtex
 @misc{utm_dataset,
-	author    = {Santos, Clayton Silva},
-	title     = {{UTM} {Dataset}},
-	year      = {2026},
-	month     = {jan},
-	publisher = {Roboflow},
-	version   = {27},
-	doi       = {10.57967/hf/7558},
-	url       = {https://universe.roboflow.com/visiongauge/utm_dataset-ooorv}
+    author    = {Santos, C.S. and Arima, M. N.},
+    title     = {{UTM Dataset}},
+    year      = {2026},
+    month     = {jan},
+    publisher = {Hugging Face},
+    doi       = {10.57967/hf/7558},
+    url       = {https://huggingface.co/datasets/claytonsds/UTM_Dataset}
 }
 ```
